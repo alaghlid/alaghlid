@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" onclick="javascript:window.location='https://github.com/alaghlid';"/>
   <div id="badges">
     <a href="https://fr.linkedin.com/in/ayoub-laghlid">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,7 @@
 
 ### My Github Stats :fire:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaghlid&theme=dark&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alaghlid&theme=dark&show_icons=true" onclick="javascript:window.location='https://github.com/alaghlid';"/>
 </div>
 
 
